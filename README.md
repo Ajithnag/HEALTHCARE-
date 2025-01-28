@@ -14,8 +14,8 @@ find Healthcare devices
 
 - # functionalities
 - Parashuram Kalishetty real time tracking
-- Sai teja dasari R and D
-- Siddhartha akula Customer services
+- Sai teja dasari CRM to handle health care
+- Siddhartha akula Customer support chatbox
 - Sharmila akula Supply chain
 - Gnanendra Ajithnag Gadde Market and sales
 - 
