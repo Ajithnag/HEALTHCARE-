@@ -13,7 +13,7 @@ find Healthcare devices
 - Gnanendra Ajithnag Gadde Business Analyst
 
 - # functionalities
-- Parashuram KalishettScreal time analysis
+- Parashuram Kalishetty real time tracking
 - Sai teja dasari R and D
 - Siddhartha akula Customer services
 - Sharmila akula Supply chain
